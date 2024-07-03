@@ -1,0 +1,27 @@
+<resources>
+    <string name="black_and_white">Czarno-białe</string>
+    <string name="reset">Anuluj</string>
+    <string name="floyd_steninberg_initials">FS</string>
+    <string name="positional">Pozycyjny</string>
+    <string name="rotate">Obrócić</string>
+    <string name="invert">Inwersja</string>
+    <string name="static_tool">Statyczny</string>
+
+    <string name="generate">Generować</string>
+    <string name="not_binary_image">Nie jest to obraz binarny. Upewnij się, że każdy piksel jest czarny lub biały.</string>
+    <string name="generate_image_page">Generuj stronę z obrazem</string>
+    <string name="draw_image_page">Narysuj stronę z obrazem</string>
+    <string name="enter_prompt">Wprowadź swóją podpowiedź</string>
+    <string name="could_not_generate_image">Nie można wygenerować obrazu</string>
+
+    <string name="image_needed">Wymagany jest obraz binarny. Kliknij dowolny przycisk pod obrazem.</string>
+    <string name="add_qr_url">Dodaj swój link QR</string>
+    <string name="qr_code_title">Tytuł kodu QR</string>
+    <string name="qr_code_text">Dodatkowy tekst</string>
+    <string name="url">URL</string>
+    <string name="add_barcode_url">Dodaj swój URL kodu kreskowego</string>
+    <string name="bar_code_title">Tytuł kodu kreskowego</string>
+    <string name="qr_vcard">vCard</string>
+    <string name="qr_code_email">Email</string>
+    <string name="qr_code_phone">Telefon</string>
+</resources>
